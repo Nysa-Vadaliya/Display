@@ -1,0 +1,33 @@
+html {
+    width: 100%
+    height: 100%
+}
+.important{
+    border-style:solid;
+    border-color: purple;
+}
+.highlight{
+    background-color: yellow;
+}
+.Red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    display: inline;
+    padding: 10%;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    display: inline;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 5px;
+    display: inline;
+}
